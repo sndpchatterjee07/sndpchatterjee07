@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my little corner on Github! Thanks for stopping by!
+Welcome to my little corner on `Github`! Thanks for stopping by!
 
 
 ## Contact
